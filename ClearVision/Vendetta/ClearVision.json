@@ -1,6 +1,6 @@
 {  
-    "name": "Dark blue Kris",  
-    "description": "just a dark blue kris dreemurr theme!",  
+    "name": "Dark Kris",  
+    "description": "just a dark kris dreemurr theme!",  
 "authors": [  
       {  
          "name": "Taki_Shiwa, edited by Ivory",  
@@ -9,13 +9,13 @@
     ],  
     "semanticColors": {  
 "ANDROID_RIPPLE": [  
-    "#74a4cf",  
-    "#74a4cf",  
-    "#74a4cf"  
+    "#74a4cf",  
+    "#74a4cf",  
+    "#74a4cf"  
 ],  
         "ACTIVITY_CARD_BACKGROUND": [  
             "#fb4934",  
-            "#fb4934",  
+            "#9d0006",  
             "#fb4934"  
         ],  
         "BACKGROUND_FLOATING": [  
@@ -533,4 +533,4 @@
         "iconpack":"rosiecord-plumpy"  
     },  
     "spec": 2  
-			}
+	}
