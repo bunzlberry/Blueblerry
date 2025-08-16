@@ -1,18 +1,18 @@
 {
-    "name": "Dark blue Kris",
-    "description": "just a dark blue kris dreemurr theme!",
-    "authors": [
-        {
-            "name": "Taki_Shiwa, edited by Dee",
-            "id": "466968658997149706"
-        }
+    "name": "Dark Kris",
+    "description": "just a dark kris dreemurr theme!",
+	"authors": [
+      {
+         "name": "Taki_Shiwa, edited by Ivory",
+         "id": "466968658997149706"
+      }
     ],
     "semanticColors": {
-        "ANDROID_RIPPLE": [
-            "#74a4cf",
-            "#74a4cf",
-            "#74a4cf"
-        ],
+	"ANDROID_RIPPLE": [
+	    "#74a4cf",
+	    "#74a4cf"",
+	    "#74a4cf"
+	],
         "ACTIVITY_CARD_BACKGROUND": [
             "#fb4934",
             "#9d0006",
@@ -24,44 +24,44 @@
             "#102b47"
         ],
         "BACKGROUND_MENTIONED": [
-            "#8dbcd9",
-            "#8dbcd9",
-            "#8dbcd9"
+            "#bdae931a",
+            "#665c541a",
+            "#bdae931a"
         ],
         "BACKGROUND_MENTIONED_HOVER": [
-            "#93aebf",
-            "#93aebf",
-            "#93aebf"
+            "#bdae931a",
+            "#665c541a",
+            "#bdae931a"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#24334f",
-            "#24334f",
-            "#24334f"
+            "#bdae931a",
+            "#665c541a",
+            "#bdae931a"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#799cd4",
-            "#799cd4",
-            "#799cd4"
+            "#061428",
+            "#061428",
+            "#061428"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#7288ab",
-            "#7288ab",
-            "#7288ab"
+            "#061428",
+            "#061428",
+            "#061428"
         ],
         "BACKGROUND_ACCENT": [
-            "#566f99",
-            "#566f99",
-            "#566f99"
+            "#86b4ea",
+            "#86b4ea",
+            "#86b4ea"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#98b6d6",
-            "#98b6d6",
-            "#98b6d6"
+            "#222959",
+            "#222959",
+            "#222959"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#698eb5",
-            "#698eb5",
-            "#698eb5"
+            "#2678d626",
+            "#06142826",
+            "#2678d626"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
             "#2678d626",
@@ -69,9 +69,9 @@
             "#2678d626"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#89a6c4",
-            "#89a6c4",
-            "#89a6c4"
+            "#2678d699",
+            "#2678d699",
+            "#2678d699"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#0a2848",
@@ -79,76 +79,76 @@
             "#000000"
         ],
         "BACKGROUND_PRIMARY": [
-            "#30364f",
-            "#30364f",
-            "#30364f"
+            "#061428",
+            "#061428",
+            "#061428"
         ],
         "BACKGROUND_SECONDARY": [
-            "#464f73",
-            "#464f73",
-            "#464f73"
+            "#0a1426",
+            "#0a1426",
+            "#0a1426"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#567094",
-            "#567094",
-            "#567094"
+            "#111423",
+            "#111423",
+            "#111423"
         ],
         "BACKGROUND_TERTIARY": [
-            "#8ba3cc",
-            "#8ba3cc",
-            "#8ba3cc"
+            "#04122e",
+            "#04122e",
+            "#04122e"
         ],
-        "BG_BACKDROP": [
-            "#8c97ab",
-            "#8c97ab",
-            "#8c97ab"
-        ],
-        "BG_BASE_PRIMARY": [
-            "#9dabc4",
-            "#9dabc4",
-            "#9dabc4"
-        ],
-        "BG_SURFACE_OVERLAY_TMP": [
-            "#8ba3cc",
-            "#8ba3cc",
-            "#8ba3cc"
+	"BG_BACKDROP": [
+	    "#102b48b3",
+	    "#102b48b3",
+	    "#102b48b3"
+	],
+	"BG_BASE_PRIMARY": [
+	    "#03081c",
+	    "#03081c",
+	    "#03081c"
+	],
+	"BG_SURFACE_OVERLAY_TMP": [
+            "#03081c",
+	    "#03081c",
+	    "#03081c"
         ],
         "BUG_REPORTER_MODAL_SUBMITTING_BACKGROUND": [
             "#0a2848",
             "#dcddde",
             "#000000"
         ],
-        "CARD_PRIMARY_BG": [
-            "#9dadc9",
-            "#9dadc9",
-            "#9dadc9"
-        ],
-        "CARD_SECONDARY_BG": [
-            "#7e8da6",
-            "#7e8da6",
-            "#7e8da6"
-        ],
+	"CARD_PRIMARY_BG": [
+	    "#03081c",
+	    "#03081c",
+	    "#03081c"
+	],
+	"CARD_SECONDARY_BG": [
+	    "#03081c",
+	    "#03081c",
+	    "#03081c"
+	],
         "CHANNELS_DEFAULT": [
-            "#202b47",
-            "#202b47",
-            "#202b47"
+            "#575a68",
+            "#575a68",
+            "#575a68"			
         ],
         "CHANNEL_ICON": [
-            "#98a1b8",
-            "#98a1b8",
-            "#98a1b8"
+            "#2780E64d",
+            "#2780E64d",
+            "#2780E64d"
         ],
         "CHAT_BACKGROUND": [
             "transparent",
             "transparent",
             "transparent"
         ],
-        "CHAT_SWIPE_TO_REPLY_BACKGROUND": [
-            "#202b47",
-            "#202b47",
-            "#202b47"
-        ],
-        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+	"CHAT_SWIPE_TO_REPLY_BACKGROUND": [
+	    "#0f1428",
+	    "#0f1428",
+	    "#0f1428"
+	],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER":  [
             "#81b6ef",
             "#81b6ef",
             "#81b6ef"
@@ -223,21 +223,21 @@
             "#dcddde",
             "#000000"
         ],
-        "EMBED_BACKGROUND": [
-            "#031d30b3",
-            "#031d30b3",
-            "#031d30b3"
-        ],
+	"EMBED_BACKGROUND": [
+	    "#031d30b3",
+	    "#031d30b3",
+	    "#031d30b3"
+	],
         "ELEVATION_STROKE": [
             "#0a2848",
             "#dcddde",
             "#000000"
         ],
-        "EXPRESSION_PICKER_BG": [
-            "#111423",
-            "#111423",
-            "#111423"
-        ],
+	"EXPRESSION_PICKER_BG": [
+	    "#111423",
+	    "#111423",
+	    "#111423"
+	],
         "FOCUS_PRIMARY": [
             "#0a2848",
             "#dcddde",
@@ -249,14 +249,14 @@
             "#000000"
         ],
         "HEADER_PRIMARY": [
-            "#4465ab",
-            "#4465ab",
-            "#4465ab"
+            "#dcddde",
+            "#0a2848",
+            "#dcddde"
         ],
         "HEADER_SECONDARY": [
-            "#6d87bf",
-            "#6d87bf",
-            "#6d87bf"
+            "#2780E6",
+            "#2780E6",
+            "#2780E6"
         ],
         "INFO_DANGER_BACKGROUND": [
             "#0a2848",
@@ -348,31 +348,31 @@
             "#076678",
             "#83a598"
         ],
-        "MENTION_FOREGROUND": [
-            "#ffffff",
-            "#ffffff",
-            "#ffffff"
-        ],
+	"MENTION_FOREGROUND": [
+	    "#ffffff",
+	    "#ffffff",
+	    "#ffffff"
+	],
         "MODAL_FOOTER_BACKGROUND": [
             "#0a2848",
             "#7eb3f0",
             "#000000"
         ],
-        "PANEL_BG": [
-            "#111423",
+	"PANEL_BG": [
+	    "#111423",
             "#111423",
             "#111423"
-        ],
-        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#03081c",
-            "#03081c",
-            "#03081c"
-        ],
-        "REDESIGN_BUTTON_SECONDARY_BORDER": [
-            "#222959",
+	],
+	"REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+	    "#03081c",
+	    "#03081c",
+	    "#03081c"
+	],
+	"REDESIGN_BUTTON_SECONDARY_BORDER": [
+	    "#222959",
             "#222959",
             "#222959"
-        ],
+	],
         "SCROLLBAR_AUTO_THUMB": [
             "#061428",
             "#061428",
@@ -423,11 +423,11 @@
             "#9d0006",
             "#fb4934"
         ],
-        "TYPING_INDICATOR_BG": [
-            "#00000066",
-            "#00000066",
-            "#00000066"
-        ],
+	"TYPING_INDICATOR_BG": [
+	    "#00000066",
+	    "#00000066",
+	    "#00000066"
+	],
         "TEXTBOX_MARKDOWN_SYNTAX": [
             "#076678",
             "#076678",
@@ -454,9 +454,9 @@
             "#2678d6"
         ],
         "TEXT_NORMAL": [
-            "#ffffff",
-            "#ffffff",
-            "#ffffff"
+            "#dcddde",
+            "#dcddde",
+            "#dcddde"
         ],
         "TEXT_POSITIVE": [
             "#689d6a",
@@ -511,13 +511,13 @@
         "GREEN_360": "#689d6a",
         "WHITE_500": "#dcddde",
         "YELLOW_300": "#2780E6",
-        "PLUM_20": "#111423",
-        "PLUM_16": "#111533",
-        "PLUM_22": "#0f1428"
+	"PLUM_20": "#111423",
+	"PLUM_16": "#111533",
+	"PLUM_22": "#0f1428"
     },
     "background": {
         "url": "https://raw.githubusercontent.com/bunzlberry/Blueblerry/refs/heads/main/ClearVision/Vendetta/kris%20dreemurr_20250816065356.png",
-        "alpha": 1
+	"alpha": 1
     },
     "plus": {
         "version": 0,
@@ -525,12 +525,12 @@
         "icons": {
             "ic_mic_neutral": "#102b47",
             "ic_mic_muted_neutral": "#102b47",
-            "ic_soundboard": "#102b47",
+            "ic_soundboard":"#102b47",
             "ic_soundboard_muted": "#102b47",
             "ic_video": "#102b47",
             "ic_video_disabled": "#102b47"
         },
-        "iconpack": "rosiecord-plumpy"
+        "iconpack":"rosiecord-plumpy"
     },
     "spec": 2
 	}
